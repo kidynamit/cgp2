@@ -8,6 +8,7 @@ var classScene =
     [ "genVizRender", "classScene.html#a2683f694189bb3f94f2558298d8f8886", null ],
     [ "genVoxRender", "classScene.html#a9d8e50c7a58bca8a447c3591ba2dc061", null ],
     [ "sampleScene", "classScene.html#a59bb22dec8001784a1bbb73bd6b3b495", null ],
+    [ "storeShapeNodes", "classScene.html#ae6e09cf014107b2ced1acc7781af8e66", null ],
     [ "voxelise", "classScene.html#ae82422bec6faaf1b6222f2eeb764f560", null ],
     [ "voxFin", "classScene.html#a1b497ff28468cdad648df456a9cbc3df", null ],
     [ "voxSetOp", "classScene.html#ab79bbdd353b68841327569eb89c1481e", null ],

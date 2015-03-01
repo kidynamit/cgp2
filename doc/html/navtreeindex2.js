@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"namespacestats.html":[2,0,3],
 "namespacestats.html":[1,0,0],
 "namespacestats_1_1detail.html":[1,0,0,0],
 "obj_8cpp.html":[3,0,0,6],

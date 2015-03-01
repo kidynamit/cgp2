@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classView.html#adca8a568ced7325cbeacf5bfc55c5ac9":[2,0,25,14],
 "classView.html#add3845ee10369ce8d04901ba302c5136":[2,0,25,47],
 "classView.html#ae215d68cb0e906e67837ee7b41865661":[2,0,25,36],
 "classView.html#ae47f7ddcd409af6a5681b11a402fffb3":[2,0,25,48],
@@ -196,8 +197,8 @@ var NAVTREEINDEX1 =
 "dir_a85021b0e69859736a3ff9b8cd591b0c.html":[3,0,1],
 "dir_c7497abfabff6646c0a68ab72d419502.html":[3,0,2],
 "files.html":[3,0],
-"functions.html":[2,3,0,0],
 "functions.html":[2,3,0],
+"functions.html":[2,3,0,0],
 "functions_b.html":[2,3,0,1],
 "functions_c.html":[2,3,0,2],
 "functions_d.html":[2,3,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "namespacemembers.html":[1,1,0],
 "namespacemembers_func.html":[1,1,1],
 "namespacemembers_vars.html":[1,1,2],
-"namespaces.html":[1,0],
-"namespacestats.html":[2,0,3]
+"namespaces.html":[1,0]
 };

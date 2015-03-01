@@ -67,10 +67,10 @@ CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/g++-4.8
 CMAKE_CXX_COMPILER_WITH_PATH:FILEPATH=/usr/bin/g++-4.8
 
 //Flags used by the compiler during all build types.
-CMAKE_CXX_FLAGS:STRING=-std=c++11 -fPIC
+CMAKE_CXX_FLAGS:STRING=
 
 //Flags used by the compiler during debug builds.
-CMAKE_CXX_FLAGS_DEBUG:STRING=-gdwarf-3
+CMAKE_CXX_FLAGS_DEBUG:STRING=-g
 
 //Flags used by the compiler during release minsize builds.
 CMAKE_CXX_FLAGS_MINSIZEREL:STRING=-Os -DNDEBUG
@@ -81,7 +81,7 @@ CMAKE_CXX_FLAGS_MINSIZEREL:STRING=-Os -DNDEBUG
 CMAKE_CXX_FLAGS_RELEASE:STRING=-O3 -DNDEBUG
 
 //Flags used by the compiler during Release with Debug Info builds.
-CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O3 -DNDEBUG -g -gdwarf-3
+CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
 
 //C compiler.
 CMAKE_C_COMPILER:FILEPATH=/usr/bin/cc
